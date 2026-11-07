@@ -1,2 +1,2 @@
 #
-print("==== student marks system ====
+print("==== student marks system ==== ")

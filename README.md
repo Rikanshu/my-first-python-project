@@ -7,3 +7,4 @@ print("student name is ",name ,"marks is ", marks)
 
 
 
+
